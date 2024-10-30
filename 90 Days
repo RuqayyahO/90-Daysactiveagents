@@ -1,1 +1,3 @@
-file:///C:/Users/Omobolanle%20Oluwo/AppData/Local/Temp/qgis2web/qgis2web_2024_10_30-07_43_04_179213/index.html
+git clone https://github.com/ruqayyaho/ruqayyaho.github.io
+cd ruqayyaho.github.io
+echo "Hello World" > C:/Users/Omobolanle%20Oluwo/AppData/Local/Temp/qgis2web/qgis2web_2024_10_30-07_43_04_179213/index.html
